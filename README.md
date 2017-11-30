@@ -1,0 +1,1 @@
+# rownowazenie-obciazenia-procesorow
