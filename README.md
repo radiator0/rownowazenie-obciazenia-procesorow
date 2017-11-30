@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="screenshoot.jpg" width="1078"/>
+</p>
  
 Zadanie 5  
 Symulacja rozproszonego alg. równoważącego obciążenie procesorów.
