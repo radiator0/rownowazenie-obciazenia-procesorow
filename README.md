@@ -2,8 +2,9 @@
   <img src="screenshoot.jpg" width="1078"/>
 </p>
  
-Zadanie 5  
-Symulacja rozproszonego alg. równoważącego obciążenie procesorów.
+<h1> Systemy operacyjne </h1>
+<h2> Zadanie 5 - Symulacja rozproszonego algorytmu równoważącego obciążęnie procesorów </h2>
+
 W systemie pracuje N identycznych procesorów. Na każdym z nich pojawiają się nowe zadania (procesy), z RÓŻNĄ częstotliwością i RÓŻNYMI wymaganiami (każdy proces wymaga określonego, różnego,  udziału w mocy obl. procesora - np ~3%). Zasymulować nast. strategie przydziału:
 
 Na procesorze x pojawia sie zadanie. Nastepnie:
